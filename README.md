@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **react,nodejs,typescript,javascript,angularjs,java**
+- 💬 Ask me about **JAVA,HTML,CSS,JAVASCRIPT,REACTJS,NODEJS,EXPRESSJS,MONGODB,**
 
 - 📫 How to reach me **sneharay446@gmail.com**
 
